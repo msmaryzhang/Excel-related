@@ -1,3 +1,4 @@
+-- paste these into excel VBA module, select file that contains all the file you want to convert
 Sub CSVtoXLS()
 'UpdatebyExtendoffice20170814
     Dim xFd As FileDialog
